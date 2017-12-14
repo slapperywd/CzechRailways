@@ -1,0 +1,106 @@
+2017-11-28 16:52:56,719 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - SwitchStationsFeature
+Browser:Chrome
+Language:English
+2017-11-28 17:25:38,775 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-28 17:26:38,891 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - D:\Siarhei_Mahlysh_workspace\CDCZproj\CzechRailways\CZProjectFramework\CZBDDTests\bin\Debug\TrainTimetableFeature.jpg
+2017-11-28 17:27:55,461 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-28 17:29:00,534 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-28 17:29:29,078 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-29 11:29:22,218 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 11:28:06,046 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 11:28:57,005 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 11:40:10,153 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 12:00:21,372 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 12:00:42,961 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 12:07:17,683 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 13:13:30,585 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 13:14:24,131 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - D:\Siarhei_Mahlysh_workspace\CDCZproj\CzechRailways\CZProjectFramework\CZBDDTests\bin\Debug\TrainTimetableFeature.jpg
+2017-11-30 13:14:39,051 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-11-30 13:14:58,932 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - D:\Siarhei_Mahlysh_workspace\CDCZproj\CzechRailways\CZProjectFramework\CZBDDTests\bin\Debug\TrainTimetableFeature.jpg
+2017-11-30 13:15:17,426 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - TrainTimetableFeature
+Browser:Chrome
+Language:English
+2017-12-04 12:43:53,798 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - CheckUsersAddressInfo
+Browser:Chrome
+Language:English
+2017-12-04 12:44:11,815 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - CheckUsersBaseInfo
+Browser:Chrome
+Language:English
+2017-12-04 12:44:29,932 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - LogInRegisteredUser
+Browser:Chrome
+Language:English
+2017-12-04 12:44:46,166 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - LogInUnregisteredUser
+Browser:Chrome
+Language:English
+2017-12-04 12:44:59,251 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - PriceChangeAfterAddingNewDefoultePassenger
+Browser:Chrome
+Language:English
+2017-12-04 12:45:08,062 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyPriceChangingAsterAddingSecondDefaultePassenger
+2017-12-04 12:45:08,062 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - priceBeforeAdding(219)*2=priceAfterAdding=438
+2017-12-04 12:45:08,063 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - priceBeforeAdding(219)*2=priceAfterAdding=438
+2017-12-04 12:45:08,063 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - priceBeforeAdding(353)*2*0.876=priceAfterAdding=618
+2017-12-04 12:45:08,063 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - priceBeforeAdding(219)*2=priceAfterAdding=438
+2017-12-04 12:45:08,063 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - priceBeforeAdding(219)*2=priceAfterAdding=438
+2017-12-04 12:45:20,095 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - RegisterNewUser
+Browser:Chrome
+Language:English
+2017-12-04 12:46:06,179 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - CheckingTrainTimetableDetails
+Browser:Chrome
+Language:English
+2017-12-04 12:46:36,602 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - SavingTimetableInPDF
+Browser:Chrome
+Language:English
+2017-12-04 12:46:57,153 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - SearchingTrainTimetableWithInvalidTrainNameInput
+Browser:Chrome
+Language:English
+2017-12-04 12:47:10,234 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyingTrainDepartureAndDestinationStations
+Browser:Chrome
+Language:English
+2017-12-04 12:47:22,243 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyTrainTimetableVisibility
+Browser:Chrome
+Language:English
+2017-12-05 10:15:52,286 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - CheckingTrainTimetableDetails
+Browser:Chrome
+Language:English
+2017-12-05 10:16:08,409 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - SavingTimetableInPDF
+Browser:Chrome
+Language:English
+2017-12-05 10:16:26,996 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - SearchingTrainTimetableWithInvalidTrainNameInput
+Browser:Chrome
+Language:English
+2017-12-05 10:16:37,087 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyingTrainDepartureAndDestinationStations
+Browser:Chrome
+Language:English
+2017-12-05 10:16:46,810 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyTrainTimetableVisibility
+Browser:Chrome
+Language:English
+2017-12-05 10:35:12,983 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - VerifyTrainTimetableVisibility
+Browser:Chrome
+Language:English
+2017-12-05 10:36:14,660 [NonParallelWorker] INFO CZProjectFramework.Utils.Logger - D:\Siarhei_Mahlysh_workspace\CDCZproj\CzechRailways\CZProjectFramework\CZBDDTests\bin\Debug\VerifyTrainTimetableVisibility.jpg

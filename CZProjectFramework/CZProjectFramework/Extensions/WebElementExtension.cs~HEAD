@@ -1,0 +1,44 @@
+﻿using System;
+using CZProjectFramework.Utils;
+using OpenQA.Selenium;
+using OpenQA.Selenium.Support.UI;
+
+namespace CZProjectFramework.Extensions
+{
+    public static class WebElementExtension
+    {
+
+
+        public static void WaitUntilClickable(this IWebElement element, IWebDriver driver)
+        {
+            IWait<IWebDriver> wait = new WebDriverWait(driver, TimeSpan.FromSeconds(Config.ExplicitTimeout));
+            wait.Until(ExpectedConditions.ElementToBeClickable(element));
+        }
+
+        public static void WaitUntilExist(this IWebElement element, IWebDriver driver, By by)
+        {
+            IWait<IWebDriver> wait = new WebDriverWait(driver, TimeSpan.FromSeconds(Config.ExplicitTimeout));
+            wait.Until(ExpectedConditions.ElementExists(by));
+        }
+
+        public static void WaitUntilVisible(this IWebElement element, IWebDriver driver, By by)
+        {
+            IWait<IWebDriver> wait = new WebDriverWait(driver, TimeSpan.FromSeconds(Config.ExplicitTimeout));
+            wait.Until(ExpectedConditions.ElementIsVisible(by));
+        }
+
+        public static bool Exists(this IWebElement element)
+        {
+            try
+            {
+                var text = element.Text;
+            }
+            catch (Exception e)
+            {
+                return false;
+            }
+            return true;
+
+        }
+    }
+}

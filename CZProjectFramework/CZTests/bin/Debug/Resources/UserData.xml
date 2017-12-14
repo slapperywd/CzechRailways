@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<User>
+  <email>Squire_86@mail.ru</email>
+  <name>TestUser</name>
+  <surname>TestUser</surname>
+  <password>Test123456</password>
+  <city>TestCity</city>
+  <country>TestCountry</country>
+  <street>TestStreet</street>
+</User>

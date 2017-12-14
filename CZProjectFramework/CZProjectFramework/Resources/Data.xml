@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Browsers>
+  <browser>
+    <name>Chrome</name>
+  </browser>
+  <browser>
+    <name>Firefox</name>
+  </browser>
+  <browser>
+    <name>IE</name>
+  </browser>
+  <browser>
+    <name>EDGE</name>
+  </browser>
+</Browsers>
